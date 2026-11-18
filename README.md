@@ -18,8 +18,8 @@ Prototipo funcional desarrollado para la materia **Desarrollo de Software con IA
 
 ## 📁 Estructura del Repositorio
 - `Tienda_crochet.ipynb`: Cuaderno/script principal con la ingesta relacional y el menú interactivo.
-- `ingesta_inventario.py`: Script inicial de carga de catálogos y esquema relacional.
-- `generar_transacciones.py`: Script para la generación automatizada de transacciones sintéticas (soporte para 300 compras y 150 clientes simulados).
+- `ingesta_inventario.pynb`: Script inicial de carga de catálogos y esquema relacional.
+- `generar_transacciones.pynb`: Script para la generación automatizada de transacciones sintéticas (soporte para 300 compras y 150 clientes simulados).
 - `tienda_crochet.db`: Base de datos SQLite física con el esquema relacional y datos de prueba actualizados.
 - `README.md`: Documentación del proyecto.
 
